@@ -1,0 +1,15 @@
+.gradient{
+	background-image: linear-gradient(#F00079, #F2A041);
+}
+
+.user-banner{
+	background-image: linear-gradient(to bottom right,#F00079, #F2A041);
+	width: 100%;
+}
+
+.profile-image{
+	vertical-align: middle;
+  width: 50%;
+  height: 50px;
+	border-radius: 50%;
+}
