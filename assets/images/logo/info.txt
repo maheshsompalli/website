@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Lekton-Bold
+font link: https://fonts.google.com/specimen/Lekton
+font author: ISIA Urbino
+font author site: http://lektongroups.blogspot.ca/
+Slogan Font: WorkSans-Light.ttf
+
+icon designer: Ji Sub Jeong
+icon designer link: /james303
+        
+{"bg-gradient-0":"#F00079","bg-gradient-1":"#F2A041","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      

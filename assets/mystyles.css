@@ -5,11 +5,58 @@
 .user-banner{
 	background-image: linear-gradient(to bottom right,#F00079, #F2A041);
 	width: 100%;
+	height:270px;
 }
 
-.profile-image{
-	vertical-align: middle;
-  width: 50%;
-  height: 50px;
+.profile-text{
+	text-align:left;
+}
+
+.profile-image {
+	width: 100%;
 	border-radius: 50%;
+	margin-top: -3em;
+	margin-right: -1.8em;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+	.profile-image {
+		background: red;
+		margin-top: -2em;
+		margin-right: 0em; 
+	}
+	.profile-text {
+		text-align: center;
+	}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+	.profile-image {
+		background: green;
+		margin-top: -5em;
+		text-align:center;
+	}
+	.profile-text {
+		text-align: center;
+	}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+	.profile-image { margin-top: -3em; }
+	.profile-text { text-align: left; }
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+	.profile-image { margin-top: -3em; }
+	.profile-text { text-align: left; }
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+	.profile-image { margin-top: -3em; }
+	.profile-text { text-align: left; }
 }
