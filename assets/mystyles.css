@@ -36,10 +36,9 @@
 	.profile-image {
 		background: green;
 		margin-top: -5em;
-		text-align:center;
 	}
 	.profile-text {
-		text-align: center;
+		text-align: left;
 	}
 }
 
